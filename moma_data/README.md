@@ -2,7 +2,7 @@
 
 ## Dataset source
 
-These datasets consist of modified subsets of data from the Museum of Modern Art's (MoMA) research datasets representing all of the works and artists that have been accessioned into MoMA’s collection and cataloged in their database. These datasets were accessed via GitHub [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4408594.svg)].
+These datasets consist of modified subsets of data from the Museum of Modern Art's (MoMA) research datasets representing all of the works and artists that have been accessioned into MoMA’s collection and cataloged in their database. These datasets were accessed via GitHub ![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4408594.svg).
 
 ## Usage
 
